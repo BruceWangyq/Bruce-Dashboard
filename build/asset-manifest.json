@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Bruce-Dashboard/static/css/main.1d5a8b88.chunk.css",
+    "main.js": "/Bruce-Dashboard/static/js/main.a9c15187.chunk.js",
+    "main.js.map": "/Bruce-Dashboard/static/js/main.a9c15187.chunk.js.map",
+    "runtime-main.js": "/Bruce-Dashboard/static/js/runtime-main.1e27e860.js",
+    "runtime-main.js.map": "/Bruce-Dashboard/static/js/runtime-main.1e27e860.js.map",
+    "static/js/2.9155f547.chunk.js": "/Bruce-Dashboard/static/js/2.9155f547.chunk.js",
+    "static/js/2.9155f547.chunk.js.map": "/Bruce-Dashboard/static/js/2.9155f547.chunk.js.map",
+    "index.html": "/Bruce-Dashboard/index.html",
+    "static/css/main.1d5a8b88.chunk.css.map": "/Bruce-Dashboard/static/css/main.1d5a8b88.chunk.css.map",
+    "static/js/2.9155f547.chunk.js.LICENSE.txt": "/Bruce-Dashboard/static/js/2.9155f547.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e27e860.js",
+    "static/js/2.9155f547.chunk.js",
+    "static/css/main.1d5a8b88.chunk.css",
+    "static/js/main.a9c15187.chunk.js"
+  ]
+}
